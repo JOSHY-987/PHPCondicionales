@@ -53,7 +53,7 @@ $("#mostrarelseif").on("click", function(e) {
 });
 
 
-//Mostrar Resultado ELSEIF
+//Mostrar Resultado SWICHT
 $("#mostrarswicht").off("click");
 $("#mostrarswicht").on("click", function(e) {
     $('mostrarswicht').attr("disabled", true);
